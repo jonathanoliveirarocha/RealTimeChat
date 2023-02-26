@@ -4,7 +4,7 @@ I made this project to learn how to use Web Sockets and Tailwind CSS with Django
 Project course available at: <a href="https://www.youtube.com/watch?v=SF1k_Twr9cg&t=3641s">Python Django Realtime Chat Project - Full Course</a>
 
 
-To run the app, you must first install the <a href"https://www.python.org/downloads/">Python</a> and project requirements (I suggest installing in a virtual environment):
+To run the app, you must first install the <a href="https://www.python.org/downloads/">Python</a> and project requirements (I suggest installing in a virtual environment):
 ```bash
 pip install -r requirements.txt
 
